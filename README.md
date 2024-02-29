@@ -1,2 +1,2 @@
-# MaverickUrbanist.github.io
-Homepage for Tanvi Grover, an architect specializing in Urban plannning 
+# Tanvi Nipun wedding site
+Using this domain to host the wedding site instead 
